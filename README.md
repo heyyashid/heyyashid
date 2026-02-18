@@ -74,8 +74,9 @@ Clean architecture dashboard with charts & analytics.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: (Add your link)
-- 📧 Email: (Add your email)
+- 💼 LinkedIn: www.linkedin.com/in/ashid-kv
+
+- 📧 Email: ashidkv123@gmail.com
 
 ---
 
