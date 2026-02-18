@@ -1,25 +1,82 @@
-<h1 align="center">Hi 👋, I'm ASHID KV</h1>
-<h3 align="center">🚀 Flutter Developer | Firebase | REST APIs 💻 Passionate about building scalable mobile applications</h3>
+<h1 align="center">Hi 👋 I'm Ashid KV</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=heyyashid&label=Profile%20views&color=0e75b6&style=flat" alt="heyyashid" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heyyashid" alt="heyyashid" /></a> </p>
-
-- 🔭 I’m currently working on **xchools**
-
-- 🌱 I’m currently learning **linux,**
-
-- 📫 How to reach me **ashidkv123@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ashid kv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashid kv" height="30" width="40" /></a>
-<a href="https://instagram.com/_.ashid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.ashid" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;AR+App+Builder;Firebase+%7C+REST+APIs;MVVM+Architecture;Future+Mobile+App+Architect" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heyyashid&show_icons=true&locale=en&layout=compact" alt="heyyashid" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heyyashid&show_icons=true&locale=en" alt="heyyashid" /></p>
+- 🔥 Passionate Flutter Developer from India  
+- 🏗 Building scalable apps with MVVM  
+- 🧠 AR Enthusiast (Interior Designer Project)  
+- 🔗 Working with Firebase & REST APIs  
+- 📊 Accounting background (GCC VAT, Tally Prime)  
+- 🎯 Goal: Build impactful real-world applications  
+
+---
+
+## 🛠 Tech Stack
+
+### 📱 Mobile
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+</p>
+
+### 💾 Backend & Database
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### ⚙ Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,figma,c,html" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 🏠 AR Interior Designer
+Augmented Reality app to visualize furniture in real space before purchase.
+
+### 🍽 Cloud Kitchen Vendor App
+Vendor dashboard with live order tracking and API integration.
+
+### 📊 Flutter Admin Dashboard
+Clean architecture dashboard with charts & analytics.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=heyyashid&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyyashid&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=heyyashid&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/heyyashid/heyyashid/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: (Add your link)
+- 📧 Email: (Add your email)
+
+---
+
+⭐️ *“Consistency beats motivation. Code daily.”*
